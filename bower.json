@@ -1,0 +1,25 @@
+{
+  "name": "start",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ruslan32 <rusl-idrisov@ya.ru>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*",
+    "bootstrap": "*",
+    "html5shiv": "*",
+    "modernizr": "*"
+  }
+}
